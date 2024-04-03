@@ -5,7 +5,7 @@ Cluster  Cantidad de     Porcentaje de   Principales palabras clave
    1     105             15,9 %          maximum power point tracking, fuzzy-logic based control, photo voltaic (pv), 
                                          photo-voltaic  system,  differential   evolution   algorithm,   evolutionary
                                          algorithm, double-fed induction generator (dfig), ant  colony  optimisation, 
-                                         photo voltaic array, firefly algorithm, partial shade.
+                                         photo voltaic array, firefly algorithm, artial shade.
 
    2     102             15,4 %          support vector machine,  long  short-term  memory,  back-propagation  neural
                                          network,  convolution  neural  network,  speed   wind   prediction,   energy
